@@ -1,7 +1,7 @@
 .background{
     margin: 2.5rem auto 1rem;
     color: rgb(255, 227, 249);
-    background: url('../img/img (12).jpeg');
+    background: url('img/img (12).jpeg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -365,7 +365,7 @@ article#sale{
         grid-gap: 2px;
         margin: 1.3rem auto 1rem;
     }
-    
+
     .main .article main section article{
         width: 350px;
     }
